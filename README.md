@@ -33,3 +33,11 @@
 `vim Article#1.md` for opening file, `p` for pasting from clipboard, `:wq` for write (saving changes) and quit
 2.4. Checked git status for modified file and commited it
 `git status` for checking modified Article#1.md file, `git add .` for adding files for next commit and `git commit -m "Added article #1 with users comments"`
+2.5. Created new branch for editing Article #1 (checking and fixing errors in it).
+`git branch article1/checkerrors` for creating a new branch, `git checkout article1/checkerrors` to move to created branch
+2.6. After fixing errors in Article 1 commited changes in new branch
+`git add "Article#1.md"`, `git commit -m "Fixed typos and errors in Article#1"`
+2.7. Merged `article1/checkerrors` branch with master one
+`git checkout master` to switch to master branch, `git merge article1/checkerrors` to merge recently created branch with own changes with master branch
+2.8. Added own comment to the article
+`git branch article1/addowncomment` to create new branch, `git add .` to add edited article file for next commit, `git commit -m "Added own comment for Article #1"` to commit changes, `git checkout master` and `git merge article1/addowncomment` to merge these two branches.
