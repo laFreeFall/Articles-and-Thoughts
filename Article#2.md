@@ -18,3 +18,9 @@ He just saw that other frameworks existed at that time were not the thing he wou
 Having great experience on different spheres he created really something unique, what didn't exist before. 
 He took some stuff from different languages, different technologies, different approaches, created something from scratch and got absolutely incredible result. 
 It is such easy and comfortable framework, that it's just a pleasure to work with Laravel.
+
+P.S. Even now I realise how great is such tutorial personally for me. 
+Before that I worked with VCS using PHPStorm built-in GUI. 
+And only now I understood at least a bit how it works on a lower level.
+Anyway it was a great experience and something changed in my mind.
+Thanks a lot for that.
