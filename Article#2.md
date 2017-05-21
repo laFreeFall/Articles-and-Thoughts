@@ -1,6 +1,8 @@
-David Emerson: What inspired you to create a brand new framework rather than contributing to an existing one?
+#### [David Emerson](https://www.siterocket.com/about#bios) @ [Why Businesses Choose Laravel: Interview with Taylor Otwell](https://www.siterocket.com/blog/2016/05/30/why-businesses-choose-laravel)
+![David Emerson and Taylor Otwell](https://www.siterocket.com/img/blog-david-taylor-large.jpg "David Emerson and Taylor Otwell at Lone Star PHP 2016")
+### What inspired you to create a brand new framework rather than contributing to an existing one?
 
-Taylor Otwell: There were things that frustrated me about other frameworks – for example, trying to code common features quickly like authentication were not simple to do in other frameworks. 
+**Taylor Otwell**: There were things that frustrated me about other frameworks – for example, trying to code common features quickly like authentication were not simple to do in other frameworks. 
 I also had trouble figuring out how to do things in other frameworks, and I wanted to be able to start new ideas quickly rather than spend a lot of time writing boilerplate code.
 
 I came from the .NET world and was inspired by other languages like .NET (which has features like dependency injection in controllers, for example). 
