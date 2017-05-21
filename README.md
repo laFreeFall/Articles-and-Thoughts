@@ -41,3 +41,22 @@
 `git checkout master` to switch to master branch, `git merge article1/checkerrors` to merge recently created branch with own changes with master branch
 2.8. Added own comment to the article
 `git branch article1/addowncomment` to create new branch, `git add .` to add edited article file for next commit, `git commit -m "Added own comment for Article #1"` to commit changes, `git checkout master` and `git merge article1/addowncomment` to merge these two branches.
+
+### 3. Worked with article #2.
+
+3.1. Created new article
+`git branch article2/createraw`, `git checkout article2/createraw`, `git add Article#2.md`, `git commit -m "Created Article #2"` `git checkout master`, `git merge article2/createraw`
+3.2. Added markup to the article
+`git branch article2/addmarkup`, `git checkout article2/addmarkup`, `git add Article#2.md`, `git commit -m "Added markdown markup to Article #2 :D"` `git checkout master`, `git merge article2/addmarkup`
+3.3. Added own comment
+`git branch article2/owncomment`, `git checkout article2/owncomment`, `git add Article#2.md`, `git commit -m "Added own comment to Article #2"` `git checkout master`, `git merge article2/owncomment`
+3.4. Edited own comment
+`git branch article2/editowncomment`, `git checkout article2/editowncomment`, `git add Article#2.md`, `git commit -m "Added sincere post scriptum to own comment to Article #2"` `git checkout master`, `git merge article2/editowncomment`
+
+### 4. Pushed project on GitHub
+
+4.1. Set remote repository URL
+`git remote add origin https://github.com/laFreeFall/Articles-and-thoughts.git`
+4.2. Pushed local branch and set remote as upstream
+`git push --set-upstream origin master`
+
