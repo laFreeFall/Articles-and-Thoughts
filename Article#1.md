@@ -5,7 +5,7 @@
 But 73% of people who make less than 20,000 dollars per year prefer it to hang under!
 ![Toilet paper dependency](https://qph.ec.quoracdn.net/main-qimg-1d3e5ccacfe121b27af08373d6144af7.webp "Toilet paper")
 
-- *[Gayle Laakmann McDowell](https://www.quora.com/What-is-the-most-useless-fact-you-know/answer/Gayle-Laakmann-McDowell), Consultant (tech hiring/interviewing), Coder*
+- *[Gayle Laakmann McDowell](https://www.quora.com/What-is-the-most-useless-fact-you-know/answer/Gayle-Laakmann-McDowell), Consultant (tech hiring/interviewing), Author (Cracking the Interview), Coder*
 Flamingos are pink because they eat shrimp (or, in some species, algae).
 In order to keep flamingos pink, zookeepers mix another chemical into their food. Otherwise, they'd be white.
 ![Flamingo`s color](https://qph.ec.quoracdn.net/main-qimg-91d341fc6adc13df53d2ed0ede94947a.webp "Flamingo")
@@ -17,3 +17,9 @@ According to the Infinite Monkey Theorem, a monkey hitting random keys on a keyb
 - *[Varun Kumar](https://www.quora.com/profile/Varun-Kumar-25), Maverick,EE undergrad,IIT Kanpur*
 Banging your head against a wall uses 150 calories an hour.
 ![Banging against a wall](https://qph.ec.quoracdn.net/main-qimg-a682fbd1245ad91940f4f0acdc4c3c4d.webp "Bang bang bang")
+
+- *Vladislav Loboda, Ukrainian student, who loves creating something (especially something amazing) from nothing, programming and Tayolor`s approach to Laravel*
+Paid programming courses in mosty cases worth nothing and aren't much better than free ones. 
+Future developer, who can't search for needed answers on his questions and use huge amount of free sources with petabytes of useful information won't become a good programmer even after visiting paid courses. 
+The only one outcome will be lost money in his wallet. 
+That's why I like your approach to this process and want to say how grateful I am for such opportunity.
